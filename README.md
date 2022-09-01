@@ -1,5 +1,5 @@
 # My-first-project
 
-my first project is a website: a bake shop.
+ - A bake shop.
 
-This site is an advertisement for a baked goods store.
+ - This site is an advertisement for a baked goods store.
